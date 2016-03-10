@@ -1,0 +1,19 @@
+.board{
+	height:560px;
+	width:100%;
+	background:#3399ff;
+}
+.circle{
+	background:#fff;
+	border-radius:999px;
+	width:70px;
+	height:70px;
+	margin:20px 0;
+	padding:0px;
+}
+.column{
+	margin-right:62px;
+}
+.column:nth-child(7){
+	margin-right:0;
+}
