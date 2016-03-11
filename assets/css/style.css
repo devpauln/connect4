@@ -17,3 +17,9 @@
 .column:nth-child(7){
 	margin-right:0;
 }
+.red{
+	background:#FA4D6A;
+}
+.yellow{
+	background:#FAE76B;
+}
